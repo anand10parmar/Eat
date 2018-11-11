@@ -1,0 +1,29 @@
+{
+  "Dishes":
+  [
+    {
+      "name": "Subway",
+      "imagePath": "https://www.subway.com/ns/images/menu/CAN/ENG/RPLC-sandwich-ItalianBMT-594x334.jpg",
+      "desc": "Delicious and healthy"
+
+    },
+    {
+      "name": "Salad",
+      "imagePath": "http://www.pngmart.com/files/1/Salad-PNG-Image.png",
+      "desc": "Perfect dish with bunch of nutrition"
+
+    },
+    {
+      "name": "Drink",
+      "imagePath": "https://images.medicaldaily.com/sites/medicaldaily.com/files/styles/headline/public/2014/06/11/soda-pop.jpg",
+      "desc": "Any soda same price unlimited refills"
+
+    },
+    {
+      "name": "Desert",
+      "imagePath": "https://metrouk2.files.wordpress.com/2016/02/melting-chocolate-ball.gif?quality=80&strip=all&zoom=1&resize=540%2C303",
+      "desc": "Without this its not over"
+
+    }
+  ]
+}

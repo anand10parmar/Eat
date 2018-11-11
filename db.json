@@ -1,0 +1,80 @@
+{
+  "Dishes":
+  [
+    {
+      "id": 1,
+      "name": "Subway",
+      "imagePath": "https://www.subway.com/ns/images/menu/CAN/ENG/RPLC-sandwich-ItalianBMT-594x334.jpg",
+      "desc": "Delicious and healthy"
+
+    },
+    {
+      "id": 2,
+      "name": "Salad",
+      "imagePath": "http://www.pngmart.com/files/1/Salad-PNG-Image.png",
+      "desc": "Perfect dish with bunch of nutrition"
+
+    },
+    {
+      "id": 3,
+      "name": "Drink",
+      "imagePath": "https://images.medicaldaily.com/sites/medicaldaily.com/files/styles/headline/public/2014/06/11/soda-pop.jpg",
+      "desc": "Any soda same price unlimited refills"
+
+    },
+    {
+      "id": 4,
+      "name": "Desert",
+      "imagePath": "https://metrouk2.files.wordpress.com/2016/02/melting-chocolate-ball.gif?quality=80&strip=all&zoom=1&resize=540%2C303",
+      "desc": "Without this its not over"
+
+    }
+
+  ],
+
+  "Subway": [
+    {
+      "bread": [
+        {
+          "name": "Italian Herb & Cheese"
+        },
+        {
+          "name": "Grain Wheat"
+        },
+        {
+          "name": "Flatbread"
+        },
+        {
+          "name": "Monterey Cheddar"
+        },
+        {
+          "name": "Honey Oat"
+        }
+      ]
+
+    },
+
+    {
+
+      "sauce": [
+        {
+          "name": "MAYONNAISE"
+        },
+        {
+          "name": "Grain Wheat"
+        },
+        {
+          "name": "Flatbread"
+        },
+        {
+          "name": "Monterey Cheddar"
+        },
+        {
+          "name": "Honey Oat"
+        }
+      ]
+    }
+
+  ]
+
+}
